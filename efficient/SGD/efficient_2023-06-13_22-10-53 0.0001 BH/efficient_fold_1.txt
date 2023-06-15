@@ -1,0 +1,318 @@
+Epoch 0/49
+----------
+Train Loss: 0.6022 Acc: 0.6929 (49.0011 seconds) 
+Val Loss: 0.5486 Acc: 0.7743 (17.1138 seconds) 
+Time: 66s
+
+Epoch 1/49
+----------
+Train Loss: 0.5260 Acc: 0.7618 (45.9290 seconds) 
+Val Loss: 0.4747 Acc: 0.8262 (16.6542 seconds) 
+Time: 129s
+
+Epoch 2/49
+----------
+Train Loss: 0.4691 Acc: 0.8080 (46.1845 seconds) 
+Val Loss: 0.4168 Acc: 0.8641 (16.7397 seconds) 
+Time: 192s
+
+Epoch 3/49
+----------
+Train Loss: 0.4263 Acc: 0.8260 (46.0466 seconds) 
+Val Loss: 0.3725 Acc: 0.8767 (16.6596 seconds) 
+Time: 254s
+
+Epoch 4/49
+----------
+Train Loss: 0.3941 Acc: 0.8372 (46.3719 seconds) 
+Val Loss: 0.3401 Acc: 0.8862 (18.0563 seconds) 
+Time: 319s
+
+Epoch 5/49
+----------
+Train Loss: 0.3666 Acc: 0.8506 (48.1474 seconds) 
+Val Loss: 0.3144 Acc: 0.8925 (19.3076 seconds) 
+Time: 386s
+
+Epoch 6/49
+----------
+Train Loss: 0.3454 Acc: 0.8600 (53.8153 seconds) 
+Val Loss: 0.2921 Acc: 0.9001 (18.7753 seconds) 
+Time: 459s
+
+Epoch 7/49
+----------
+Train Loss: 0.3258 Acc: 0.8634 (53.7840 seconds) 
+Val Loss: 0.2731 Acc: 0.9058 (18.5299 seconds) 
+Time: 531s
+
+Epoch 8/49
+----------
+Train Loss: 0.3051 Acc: 0.8780 (53.9697 seconds) 
+Val Loss: 0.2567 Acc: 0.9102 (19.2712 seconds) 
+Time: 605s
+
+Epoch 9/49
+----------
+Train Loss: 0.2879 Acc: 0.8826 (53.9391 seconds) 
+Val Loss: 0.2413 Acc: 0.9191 (18.5642 seconds) 
+Time: 677s
+
+Epoch 10/49
+----------
+Train Loss: 0.2804 Acc: 0.8868 (53.8843 seconds) 
+Val Loss: 0.2302 Acc: 0.9197 (18.9093 seconds) 
+Time: 750s
+
+Epoch 11/49
+----------
+Train Loss: 0.2658 Acc: 0.8969 (54.2560 seconds) 
+Val Loss: 0.2178 Acc: 0.9254 (18.8677 seconds) 
+Time: 823s
+
+Epoch 12/49
+----------
+Train Loss: 0.2567 Acc: 0.8920 (54.3037 seconds) 
+Val Loss: 0.2095 Acc: 0.9273 (18.7133 seconds) 
+Time: 896s
+
+Epoch 13/49
+----------
+Train Loss: 0.2514 Acc: 0.9026 (54.2421 seconds) 
+Val Loss: 0.2006 Acc: 0.9317 (18.6418 seconds) 
+Time: 969s
+
+Epoch 14/49
+----------
+Train Loss: 0.2406 Acc: 0.9069 (54.3079 seconds) 
+Val Loss: 0.1900 Acc: 0.9393 (18.6681 seconds) 
+Time: 1042s
+
+Epoch 15/49
+----------
+Train Loss: 0.2313 Acc: 0.9039 (54.8639 seconds) 
+Val Loss: 0.1849 Acc: 0.9349 (19.1942 seconds) 
+Time: 1116s
+
+Epoch 16/49
+----------
+Train Loss: 0.2192 Acc: 0.9140 (55.7699 seconds) 
+Val Loss: 0.1767 Acc: 0.9399 (18.9322 seconds) 
+Time: 1191s
+
+Epoch 17/49
+----------
+Train Loss: 0.2214 Acc: 0.9121 (54.4075 seconds) 
+Val Loss: 0.1720 Acc: 0.9431 (18.8475 seconds) 
+Time: 1264s
+
+Epoch 18/49
+----------
+Train Loss: 0.2128 Acc: 0.9156 (54.2139 seconds) 
+Val Loss: 0.1658 Acc: 0.9444 (19.0111 seconds) 
+Time: 1338s
+
+Epoch 19/49
+----------
+Train Loss: 0.1977 Acc: 0.9238 (54.3405 seconds) 
+Val Loss: 0.1606 Acc: 0.9482 (18.9729 seconds) 
+Time: 1411s
+
+Epoch 20/49
+----------
+Train Loss: 0.1909 Acc: 0.9251 (54.4774 seconds) 
+Val Loss: 0.1566 Acc: 0.9488 (18.9110 seconds) 
+Time: 1484s
+
+Epoch 21/49
+----------
+Train Loss: 0.1960 Acc: 0.9243 (54.4688 seconds) 
+Val Loss: 0.1495 Acc: 0.9526 (19.0754 seconds) 
+Time: 1558s
+
+Epoch 22/49
+----------
+Train Loss: 0.1814 Acc: 0.9319 (54.2169 seconds) 
+Val Loss: 0.1455 Acc: 0.9545 (18.8547 seconds) 
+Time: 1631s
+
+Epoch 23/49
+----------
+Train Loss: 0.1841 Acc: 0.9325 (55.1477 seconds) 
+Val Loss: 0.1431 Acc: 0.9545 (22.8413 seconds) 
+Time: 1709s
+
+Epoch 24/49
+----------
+Train Loss: 0.1783 Acc: 0.9290 (56.9257 seconds) 
+Val Loss: 0.1388 Acc: 0.9551 (19.9848 seconds) 
+Time: 1786s
+
+Epoch 25/49
+----------
+Train Loss: 0.1633 Acc: 0.9365 (57.1135 seconds) 
+Val Loss: 0.1366 Acc: 0.9583 (19.6986 seconds) 
+Time: 1863s
+
+Epoch 26/49
+----------
+Train Loss: 0.1640 Acc: 0.9365 (56.8382 seconds) 
+Val Loss: 0.1331 Acc: 0.9589 (19.4552 seconds) 
+Time: 1939s
+
+Epoch 27/49
+----------
+Train Loss: 0.1637 Acc: 0.9393 (54.8309 seconds) 
+Val Loss: 0.1300 Acc: 0.9608 (18.6970 seconds) 
+Time: 2013s
+
+Epoch 28/49
+----------
+Train Loss: 0.1520 Acc: 0.9403 (54.1728 seconds) 
+Val Loss: 0.1248 Acc: 0.9608 (18.8968 seconds) 
+Time: 2086s
+
+Epoch 29/49
+----------
+Train Loss: 0.1467 Acc: 0.9423 (54.1677 seconds) 
+Val Loss: 0.1215 Acc: 0.9614 (18.6064 seconds) 
+Time: 2159s
+
+Epoch 30/49
+----------
+Train Loss: 0.1483 Acc: 0.9425 (54.5551 seconds) 
+Val Loss: 0.1195 Acc: 0.9614 (18.9186 seconds) 
+Time: 2232s
+
+Epoch 31/49
+----------
+Train Loss: 0.1434 Acc: 0.9461 (55.7394 seconds) 
+Val Loss: 0.1144 Acc: 0.9640 (19.4678 seconds) 
+Time: 2308s
+
+Epoch 32/49
+----------
+Train Loss: 0.1447 Acc: 0.9442 (56.0144 seconds) 
+Val Loss: 0.1140 Acc: 0.9659 (19.6410 seconds) 
+Time: 2383s
+
+Epoch 33/49
+----------
+Train Loss: 0.1407 Acc: 0.9480 (57.0975 seconds) 
+Val Loss: 0.1087 Acc: 0.9684 (20.6957 seconds) 
+Time: 2461s
+
+Epoch 34/49
+----------
+Train Loss: 0.1299 Acc: 0.9502 (57.2168 seconds) 
+Val Loss: 0.1058 Acc: 0.9646 (20.0143 seconds) 
+Time: 2538s
+
+Epoch 35/49
+----------
+Train Loss: 0.1300 Acc: 0.9537 (56.5157 seconds) 
+Val Loss: 0.1061 Acc: 0.9665 (20.4871 seconds) 
+Time: 2615s
+
+Epoch 36/49
+----------
+Train Loss: 0.1277 Acc: 0.9548 (56.3531 seconds) 
+Val Loss: 0.1038 Acc: 0.9678 (19.5203 seconds) 
+Time: 2691s
+
+Epoch 37/49
+----------
+Train Loss: 0.1287 Acc: 0.9513 (55.7800 seconds) 
+Val Loss: 0.1011 Acc: 0.9709 (19.4555 seconds) 
+Time: 2766s
+
+Epoch 38/49
+----------
+Train Loss: 0.1163 Acc: 0.9605 (55.8465 seconds) 
+Val Loss: 0.0976 Acc: 0.9703 (19.4131 seconds) 
+Time: 2842s
+
+Epoch 39/49
+----------
+Train Loss: 0.1223 Acc: 0.9537 (55.8699 seconds) 
+Val Loss: 0.0979 Acc: 0.9684 (19.4197 seconds) 
+Time: 2917s
+
+Epoch 40/49
+----------
+Train Loss: 0.1163 Acc: 0.9567 (55.8484 seconds) 
+Val Loss: 0.0938 Acc: 0.9728 (19.5230 seconds) 
+Time: 2992s
+
+Epoch 41/49
+----------
+Train Loss: 0.1161 Acc: 0.9589 (55.8760 seconds) 
+Val Loss: 0.0929 Acc: 0.9722 (19.4866 seconds) 
+Time: 3068s
+
+Epoch 42/49
+----------
+Train Loss: 0.1102 Acc: 0.9597 (55.9949 seconds) 
+Val Loss: 0.0901 Acc: 0.9709 (19.6001 seconds) 
+Time: 3144s
+
+Epoch 43/49
+----------
+Train Loss: 0.1099 Acc: 0.9567 (56.0947 seconds) 
+Val Loss: 0.0898 Acc: 0.9709 (19.4247 seconds) 
+Time: 3219s
+
+Epoch 44/49
+----------
+Train Loss: 0.1050 Acc: 0.9636 (55.5058 seconds) 
+Val Loss: 0.0900 Acc: 0.9735 (19.2459 seconds) 
+Time: 3294s
+
+Epoch 45/49
+----------
+Train Loss: 0.1116 Acc: 0.9591 (53.3607 seconds) 
+Val Loss: 0.0870 Acc: 0.9735 (18.8209 seconds) 
+Time: 3366s
+
+Epoch 46/49
+----------
+Train Loss: 0.1061 Acc: 0.9621 (52.8684 seconds) 
+Val Loss: 0.0833 Acc: 0.9753 (18.8022 seconds) 
+Time: 3438s
+
+Epoch 47/49
+----------
+Train Loss: 0.1025 Acc: 0.9633 (52.9826 seconds) 
+Val Loss: 0.0819 Acc: 0.9779 (18.7903 seconds) 
+Time: 3510s
+
+Epoch 48/49
+----------
+Train Loss: 0.1038 Acc: 0.9610 (53.0636 seconds) 
+Val Loss: 0.0812 Acc: 0.9760 (18.6383 seconds) 
+Time: 3581s
+
+Epoch 49/49
+----------
+Train Loss: 0.1054 Acc: 0.9622 (54.0035 seconds) 
+Val Loss: 0.0801 Acc: 0.9741 (18.9347 seconds) 
+Time: 3654s
+
+Training complete in 60m 54s
+Number of epochs: 50. Batch size: 16
+Best val loss: 0.0801 Best val acc: 0.9741
+
+Confusion Matrix:
+[[ 481   15]
+ [  26 1060]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+      benign     0.9487    0.9698    0.9591       496
+   malignant     0.9860    0.9761    0.9810      1086
+
+    accuracy                         0.9741      1582
+   macro avg     0.9674    0.9729    0.9701      1582
+weighted avg     0.9743    0.9741    0.9742      1582
+
